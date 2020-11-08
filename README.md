@@ -1,4 +1,5 @@
 # Voice-grapher
+Latest version - v6
 
 This python application uses voice commands to graph functions in two dimensions.
 The functions we support are:
