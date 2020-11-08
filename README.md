@@ -15,4 +15,4 @@ To plot a second graph, you must restart the program.
 In case it fails to recognize your voice, you can press the speak button, but the program
 will be terminated if a graph is plotted.
 
-Dependencies: numpy, sympy, matplotlib, tkinter, speech-recognition, PyAudio (need to be installed using pip/other methods)
+Dependencies: numpy, sympy, matplotlib, tkinter, speech-recognition (need to be installed using pip/other methods), PyAudio (install using pipwin
