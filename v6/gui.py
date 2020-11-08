@@ -29,7 +29,7 @@ def rec():
     f = open("my_result.txt", "r")
     result = (f.read())
     print("You said:", result)
-    result = "e ^ (2 x)"
+    #result = "e ^ (2 x)"
     if "derivative of" in result.lower():
         plot(result[14:].lower(), dx = True)
     elif "integral of" in result.lower():
